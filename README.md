@@ -4,7 +4,7 @@
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1633858043/video_to_markdown/images/google-drive--1RLvgViTu_aHlv7vSthggYbYs6RfQjW_F-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1RLvgViTu_aHlv7vSthggYbYs6RfQjW_F/view?usp=sharing "")
 
-## This repository contains a app that implements MVVM architecture using: 
+## This repository contains an app that implements MVVM architecture using: 
 
 - Retrofit2
 - Room
